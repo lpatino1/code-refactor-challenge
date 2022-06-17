@@ -35,11 +35,12 @@ h1 {
 nav ul {
     list-style-type: none;
     text-align: right;
+}
+ nav ul li{
     display: inline-block;
     margin-left: 25px;
-}
-
-
+ }
+ 
 a {
     color: #ffffff;
     text-decoration: none;
@@ -68,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -93,7 +94,7 @@ main section h2 {
     font-size: 36px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding-left: 20px;
     clear: both;
