@@ -11,3 +11,6 @@ No installation needed.
 ## Usage
 
 You may run the code on Visual Studio Code or any other platform.
+
+## Images
+![Image of Website](Images\Code-refactor-image.png)
